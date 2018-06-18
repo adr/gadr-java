@@ -19,6 +19,7 @@ Which build tool should be used?
 * Good, because [it has robust performance](http://pages.zeroturnaround.com/rs/zeroturnaround/images/java-build-tools-part-2.pdf)
 * Good, because [it has a high popularity](http://pages.zeroturnaround.com/rs/zeroturnaround/images/java-build-tools-part-2.pdf)
 * Good, [if one favors declarative over imperative](https://www.slant.co/versus/2107/11592/~apache-maven_vs_gradle)
+* Bad, because [getting a dependency list is not straight forward](https://stackoverflow.com/q/1677473/873282)
 * Bad, because [it based on a fixed and linear model of phases](https://dzone.com/articles/gradle-vs-maven)
 * Bad, because [it is hard to customize](https://www.slant.co/versus/2107/11592/~apache-maven_vs_gradle)
 * Bad, because [it needs plugins for everything](https://www.slant.co/versus/2107/11592/~apache-maven_vs_gradle)
