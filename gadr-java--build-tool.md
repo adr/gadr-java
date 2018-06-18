@@ -10,6 +10,8 @@ Which build tool should be used?
 - [Gradle](https://gradle.org/)
 - [Ant](https://ant.apache.org/)
 
+## Pros and Cons of the Options
+
 ### Maven
 
 - Good, because [there is a plugin for almost everything](https://www.slant.co/versus/2107/11592/~apache-maven_vs_gradle)
