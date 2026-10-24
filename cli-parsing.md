@@ -2,7 +2,7 @@
 
 ## Context and Problem Statement
 
-We needed to determine which framework would provide better maintainability, usability, and developer experience for thecommand-line interface parsing
+We needed to determine which framework would provide better maintainability, usability, and developer experience for the command-line interface parsing
 
 ## Decision Drivers
 
@@ -70,7 +70,7 @@ Available at <https://github.com/rvesse/airline>.
 
 ### ritopt
 
-Availale at <https://ritopt.sourceforge.net/index.shtml>.
+Available at <https://ritopt.sourceforge.net/index.shtml>.
 
 * Good, because simple interface
 * Good, because used in JabRef a long time ago (before 2.10)
